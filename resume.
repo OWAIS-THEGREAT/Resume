@@ -1,0 +1,134 @@
+{
+    "basics": {
+        "name": "MOHAMMED OWAIS",
+        "label": "Student",
+        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+        "email": "2021kuEC2028@iiitkota.ac.in",
+        "phone": "+919636955991",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in electronics and communication engineering. exploring app development. I have enthusiasm in robotics.",
+        "location": {
+            "address": "Pali",
+            "postalCode": "306401",
+            "city": "Pali",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "OWAIS-THEGREAT",
+                "url": "https://github.com/OWAIS-THEGREAT"
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": "https://www.linkedin.com/in/mohammed-owais-0a4800220/"
+            },
+            {
+                "network": "Instagram",
+                "username": "-.owais_the_great",
+                "url": "https://www.instagram.com/_.owais_the_great/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "ZINE",
+            "position": "CORE TEAM MEMBER",
+            "website": "http://zine.co.in/",
+            "startDate": "",
+            "endDate": "",
+            "summary": "inovating and exploring new technology"
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.78",
+            "courses": [
+                "ELECTRONICS AND COMMUNICATION ENGINEERING"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+    ],
+    "skills": [
+        {
+            "name": "APP DEVELOPMENT",
+            "level": "BEGINNER",
+            "keywords": [
+                "ANDROID STUDIO",
+                "C++",
+                "C",
+                "KOTLIN",
+                "PYTHON",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "FLUTE"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton",
+                "Cricket"
+            ]
+        }
+    ]
+}
